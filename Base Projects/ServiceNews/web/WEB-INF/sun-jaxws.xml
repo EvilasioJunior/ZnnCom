@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="com.NewServiceNews" name="NewServiceNews" url-pattern="/NewServiceNews"/>
+  <endpoint implementation="com.ServiceOne" name="ServiceOne" url-pattern="/ServiceOne"/>
+  <endpoint implementation="com.ServiceTwo" name="ServiceTwo" url-pattern="/ServiceTwo"/>
+  <endpoint implementation="com.ServiceThree" name="ServiceThree" url-pattern="/ServiceThree"/>
+</endpoints>

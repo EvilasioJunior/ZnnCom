@@ -1,0 +1,21 @@
+<list>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Service One</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/NewServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;img src=&quot;fig5.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+    </arguments>
+  </webservice.Webservice>
+</list>

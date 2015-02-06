@@ -1,0 +1,52 @@
+<list>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Service One</Description>
+    <targetName>http://com/</targetName>
+    <Name>ServiceOneService</Name>
+    <url>http://localhost:8080/NewServiceNews/ServiceOne?wsdl</url>
+    <Port>ServiceOnePort</Port>
+    <arguments>
+      <string>ValoresMonitor.xml</string>
+      <string>ValoresAnalise.xml</string>
+      <string>50</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Service Two</Description>
+    <targetName>http://com/</targetName>
+    <Name>ServiceTwoService</Name>
+    <url>http://localhost:8080/NewServiceNews/ServiceTwo?wsdl</url>
+    <Port>ServiceTwoPort</Port>
+    <arguments>
+      <string>ValoresMonitor2.xml</string>
+      <string>ValoresAnalise2.xml</string>
+      <string>2000</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Service Three</Description>
+    <targetName>http://com/</targetName>
+    <Name>ServiceThreeService</Name>
+    <url>http://localhost:8080/NewServiceNews/ServiceThree?wsdl</url>
+    <Port>ServiceThreePort</Port>
+    <arguments>
+      <string>ValoresMonitor3.xml</string>
+      <string>ValoresAnalise3.xml</string>
+      <string>3000</string>
+    </arguments>
+  </webservice.Webservice> <webservice.Webservice>
+    <id>4</id>
+    <Description>Service Three</Description>
+    <targetName>http://com/</targetName>
+    <Name>ServiceThreeService</Name>
+    <url>http://localhost:8080/NewServiceNews/ServiceThree?wsdl</url>
+    <Port>ServiceThreePort</Port>
+    <arguments>
+      <string>ValoresMonitor4.xml</string>
+      <string>ValoresAnalise4.xml</string>
+      <string>3000</string>
+    </arguments>
+  </webservice.Webservice></list>
