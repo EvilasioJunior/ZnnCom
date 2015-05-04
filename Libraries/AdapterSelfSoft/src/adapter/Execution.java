@@ -43,11 +43,11 @@ public abstract class Execution {
     public void update(Planning m) {
 		if(m == plannerObserved){
                     this.ValuesPlanning = plannerObserved.getValuesPlanning();
-                    execution();
+                    execute();
 		}
 	}
     
     //----Abstract Method----//
     //execution
-    public abstract void execution();
+    public abstract void execute();
 }
