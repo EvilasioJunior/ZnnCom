@@ -59,6 +59,7 @@ public class SpecificAnalyzer extends Analysis{
                 waux.settargetName(w.gettargetName());
                 waux.seturl(w.geturl());
                 waux.addarguments(type);
+                waux.addarguments(w.getarguments().get(1));
                 lstwebservice.add(waux);
             }
             String xml = parser.toXML(lstwebservice);

@@ -13,9 +13,520 @@
 &lt;body&gt;
 teste&lt;br/&gt;
 teste&lt;p/&gt;
-&lt;img src=&quot;fig5.jpg&quot;&gt;
 &lt;/body&gt;
 &lt;/html&gt;</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Service Two</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/NewServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Service Three</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/NewServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>News 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>News 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>News 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>News 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 4</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>News 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>News 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>News 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>News 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Noticia 4</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Noticia 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Noticia 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Noticia 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>Noticia 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 4</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Noticia 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Noticia 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Noticia 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>Noticia 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 4</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Noticia 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Noticia 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Noticia 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>Noticia 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 4</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>1</id>
+    <Description>Noticia 1</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste&lt;br/&gt;
+teste&lt;p/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 1</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>2</id>
+    <Description>Noticia 2</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste2&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste2&lt;br/&gt;
+teste2&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 2</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>3</id>
+    <Description>Noticia 3</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 3</string>
+    </arguments>
+  </webservice.Webservice>
+  <webservice.Webservice>
+    <id>4</id>
+    <Description>Noticia 4</Description>
+    <targetName>http://com/</targetName>
+    <Name>NewServiceNewsService</Name>
+    <url>http://localhost:8080/ServiceNews/NewServiceNews?wsdl</url>
+    <Port>NewServiceNewsPort</Port>
+    <arguments>
+      <string>&lt;html&gt; 
+&lt;head&gt;&lt;title&gt;teste3&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+teste3&lt;br/&gt;
+teste3&lt;p/&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/21609559/fig6.jpg&quot;&gt;
+&lt;/body&gt;
+&lt;/html&gt;</string>
+      <string>Resumo da Noticia 4</string>
     </arguments>
   </webservice.Webservice>
 </list>

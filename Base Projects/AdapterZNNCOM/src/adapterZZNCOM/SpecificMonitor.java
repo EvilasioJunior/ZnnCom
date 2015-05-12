@@ -22,7 +22,7 @@ public class SpecificMonitor extends Monitoring{
     
     Webservice wNews;
     
-    public SpecificMonitor(Webservice wMonitor, Webservice wNews){
+   public SpecificMonitor(Webservice wMonitor, Webservice wNews){
         this.setMonitoring(wMonitor);
         this.wNews = wNews;
     }
@@ -64,7 +64,9 @@ public class SpecificMonitor extends Monitoring{
             waux.settargetName(wNews.gettargetName());
             waux.seturl(wNews.geturl());
             waux.addarguments(Long.toString(tempoFinal));
+            waux.addarguments(wNews.getarguments().get(0));
             lstwebservice.add(waux);
+            System.out.println(lstwebservice.get(0).getDescription());
 
             String xml = parser.toXML(lstwebservice);
 
